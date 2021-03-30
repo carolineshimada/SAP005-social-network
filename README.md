@@ -25,8 +25,7 @@
 ## 1. Descrição
 
 Projeto realizado durante o [**Bootcamp Laboratória - SAP005**]("http://laboratoria.la"), com intuito de criarmos uma rede social, que permita aos usuários criar, editar, deletar e dar likes em publicações.
-Você pode acessar com sua conta google ou através deste usuário teste:
-
+Você pode acessar com sua **conta google** ou através deste usuário teste:
 E-mail: adm@adm.com 
 Senha: 123456
 
